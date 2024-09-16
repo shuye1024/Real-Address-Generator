@@ -19,9 +19,12 @@
 要部署此网站，您需要使用Cloudflare Workers部署提供的JavaScript代码。
 
 1.注册或登录您的[Cloudflare](https://www.cloudflare.com/)账户
-2.创建一个新的Cloudflare Worker。
-3.将提供的JavaScript代码复制到Cloudflare Worker脚本编辑器中。
-4.保存并部署您的Worker。
+
+2.创建一个新的Cloudflare Worker
+
+3.将提供的JavaScript代码复制到Cloudflare Worker脚本编辑器中
+
+4.保存并部署您的Worker
 
 ## 反馈
 

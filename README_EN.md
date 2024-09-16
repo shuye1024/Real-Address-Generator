@@ -1,5 +1,7 @@
 # Real Address Generator
 
+English / [中文](README.md)
+
 This is a real address generator based on Cloudflare Workers. You can generate real random addresses on maps from different countries.
 
 ## Demo

@@ -23,7 +23,7 @@ async function handleRequest(request) {
   }
 
   if (!address) {
-    return new Response('Failed to retrieve detailed address', { status: 500 })
+    return new Response('Failed to retrieve detailed address, please refresh the interface （检索详细地址失败，请刷新界面）', { status: 500 })
   }
 
   const userData = await fetch('https://randomuser.me/api/')

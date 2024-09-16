@@ -3,7 +3,7 @@
 这是一个基于 Cloudflare Workers 的真实地址生成器。您可以生成不同国家地图上真实的随机地址。
 
 ## 演示地址
-<img src="https://pic.imgdb.cn/item/66e80a8bd9c307b7e944ad67.png" alt="image.png">
+![](https://pic.imgdb.cn/item/66e80a8bd9c307b7e944ad67.png)
 在线使用：[https://realaddress.fuyiran.com/](https://realaddress.fuyiran.com/)
 
 ## 功能

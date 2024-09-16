@@ -1,5 +1,7 @@
 # 真实地址生成器
 
+中文 / [English](README_EN.md)
+
 这是一个基于 Cloudflare Workers 的真实地址生成器。您可以生成不同国家地图上真实的随机地址。
 
 ## 演示地址

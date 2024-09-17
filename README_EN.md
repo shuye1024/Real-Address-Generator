@@ -16,6 +16,7 @@ Use online: [https://realaddress.fuyiran.com/](https://realaddress.fuyiran.com/)
 - Support multiple country options
 - Display address location using Google Maps
 - Generate random phone numbers, names, and genders, with the ability to click to copy directly
+- Support for saving generated information and adding notes
 
 ## Deployment
 

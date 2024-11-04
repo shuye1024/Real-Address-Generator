@@ -7,7 +7,7 @@
 ## 演示地址
 ![](https://github.com/Adonis142857/Real-Address-Generator/blob/main/example.png)
 
-在线使用：[自用](https://real-address-generator.shuye1024.workers.dev/)
+在线使用：[自用]()
 
 ## 功能
 
